@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>足球無人機科技夏令營成果報告</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Microsoft JhengHei",sans-serif
+}
+
+body{
+    background:linear-gradient(180deg,#ff9a9e,#ffb36b,#ffd6a5,#a8e6ff,#8ec5fc);
+    min-height:100vh
+}
+
+header{
+    text-align:center;
+    padding:80px 20px;
+    color:#fff;
+    text-shadow:0 2px 8px rgba(0,0,0,.25)
+}
+
+header h1{
+    font-size:52px
+}
+
+header p{
+    margin-top:12px;
+    font-size:22px
+}
+
+.section{
+    max-width:980px;
+    margin:36px auto;
+    background:rgba(255,255,255,.9);
+    padding:32px;
+    border-radius:24px;
+    box-shadow:0 10px 25px rgba(0,0,0,.15)
+}
+
+.section h2{
+    color:#d65b84;
+    margin-bottom:18px
+}
+
+.timeline{
+    background:linear-gradient(135deg,#fff3f7,#e8f8ff);
+    padding:22px;
+    border-radius:18px
+}
+
+.timeline h3{
+    color:#ff7b54;
+    margin:18px 0 10px
+}
+
+p{
+    line-height:1.8;
+    font-size:18px
+}
+
+.cards{
+    display:flex;
+    flex-wrap:wrap;
+    gap:18px;
+    justify-content:center
+}
+
+.card{
+    flex:1 1 180px;
+    max-width:210px;
+    background:linear-gradient(135deg,#ffe7ef,#e5f6ff);
+    padding:20px;
+    border-radius:18px;
+    text-align:center
+}
+
+.card .icon{
+    font-size:30px;
+    margin-bottom:10px
+}
+
+.battery-card{
+    margin-top:25px;
+    background:linear-gradient(135deg,#fff8e8,#e8f8ff);
+    padding:25px;
+    border-radius:20px;
+    box-shadow:0 8px 20px rgba(0,0,0,.12)
+}
+
+.battery-card h3{
+    text-align:center;
+    color:#d65b84;
+    margin-bottom:20px
+}
+
+.battery-card table{
+    width:100%;
+    border-collapse:collapse;
+    overflow:hidden;
+    border-radius:15px
+}
+
+.battery-card th{
+    background:#ffb36b;
+    color:white;
+    padding:12px
+}
+
+.battery-card td{
+    background:white;
+    padding:12px;
+    text-align:center;
+    border:1px solid #eee
+}
+
+.battery-card tr:hover td{
+    background:#fff3f7
+}
+
+.battery-card td:first-child{
+    font-weight:bold;
+    font-size:18px
+}
+
+footer{
+    text-align:center;
+    color:#fff;
+    padding:30px
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>足球無人機科技夏令營成果報告 ✨</h1>
+
+<p>科技 × 創意 × 學習</p>
+
+</header>
+
+
+<div class="section">
+
+<h2>⚽ 什麼是足球無人機？</h2>
+
+<p>
+足球無人機是一項結合無人機操控與團隊競技的新興運動。
+玩家需要操作裝有保護球罩的無人機，在比賽場地中與隊友合作，
+利用飛行技巧與戰術進行攻防，目標是讓自己的隊伍取得更多分數。
+</p>
+
+<br>
+
+<p>
+<b>比賽規則：</b><br>
+足球無人機比賽通常由兩隊互相競爭。
+每隊都有負責進攻的前鋒無人機，以及負責防守與支援的隊員。
+比賽過程中，選手需要遵守場地規則，並透過合作取得勝利。
+</p>
+
+<br>
+
+<p>
+<b>如何進行比賽：</b><br>
+玩家使用遙控器控制無人機的方向與速度，
+讓無人機在場地中飛行、進攻、防守以及完成得分。
+除了操控技巧之外，團隊溝通與策略也是比賽的重要部分。
+</p>
+
+<br>
+
+<p>
+<b>與一般無人機的相同與不同：</b><br>
+足球無人機和一般無人機一樣，都需要學習起飛、降落、
+方向控制，也使用鋰電池提供電力。
+不同的是，足球無人機外部有保護球罩，可以承受碰撞，
+並且主要用於團隊比賽，而不是單純飛行或拍攝。
+</p>
+
+</div>
+
+
+<div class="section">
+
+<h2>📘 我的夏令營心得</h2>
+
+<p></p>
+
+</div><div class="section">
+
+<h2>我的五天足球無人機夏令營體驗</h2>
+
+<div class="timeline">
+
+
+<h3>第一天</h3>
+
+<p>
+第一天，我們學習了足球無人機的基本種類與構造，
+了解不同足球無人機的功能與操作方式。
+接著，我們開始練習足球無人機的基本控制，
+包括起飛、降落、飛行方向控制，以及穿越圓環等挑戰。
+此外，我們也練習無人機停靠，
+學習如何更準確地控制飛行位置，提升操作技巧。
+</p>
+
+
+<h3>第二天</h3>
+
+<p>
+第二天，我們繼續使用第一天練習的足球無人機，
+進一步熟悉飛行操作，並練習更快速與更準確的控制方式。
+
+<br><br>
+
+下午，我們接觸了另一種不同類型的無人機──天穹無人機，
+學習其基本操作方法，並進行更多飛行練習。
+
+<br><br>
+
+之後，老師帶領我們開始製作這次營隊的成果網站，
+學習如何整理活動紀錄，
+並將自己的學習經驗設計成完整的網頁作品，
+將科技學習與創意設計結合在一起。
+</p>
+
+
+<h3>第三天</h3>
+
+<p>
+第三天早上，老師發給每位同學一台免費贈送的 <b>Feeby 無人機</b>。
+之後的營隊課程，我們都使用這台 Feeby 無人機進行飛行練習，
+並且可以在活動結束後將它帶回家，
+繼續練習與探索無人機飛行技巧。
+
+<br><br>
+
+下午，我們學習更多關於無人機電池的知識，
+了解電池剩餘電量、電壓變化與飛行安全之間的關係。
+透過學習不同電壓代表的狀態，
+我們知道如何判斷電池是否接近沒電，
+以及什麼時候需要準備降落，避免電池受到損害。
+</p>
+
+
+<div class="battery-card">
+
+<h3>🔋 二芯鋰電池狀態參考</h3>
+
+<table>
+
+<tr>
+<th>電池電量</th>
+<th>每顆電池電壓</th>
+<th>總電壓（二芯）</th>
+<th>電池狀態與操作方式</th>
+</tr>
+
+
+<tr>
+<td>🟢 100%</td>
+<td>4.20V</td>
+<td>8.40V</td>
+<td>電池充滿，可以正常使用</td>
+</tr>
+
+
+<tr>
+<td>🟢 約90%</td>
+<td>4.10V</td>
+<td>8.20V</td>
+<td>電量充足，可以進行飛行</td>
+</tr>
+
+
+<tr>
+<td>🔵 約70%</td>
+<td>4.00V</td>
+<td>8.00V</td>
+<td>正常飛行狀態</td>
+</tr>
+
+
+<tr>
+<td>🟣 約50%</td>
+<td>3.85V</td>
+<td>7.70V</td>
+<td>適合保存電池的電壓</td>
+</tr>
+
+
+<tr>
+<td>🟡 約25%</td>
+<td>3.80V</td>
+<td>7.60V</td>
+<td>準備充電，避免長時間使用</td>
+</tr>
+
+
+<tr>
+<td>🟠 約10%</td>
+<td>3.70V</td>
+<td>7.40V</td>
+<td>立即準備降落，停止飛行</td>
+</tr>
+
+
+<tr>
+<td>🔴 接近0%</td>
+<td>3.50V</td>
+<td>7.00V</td>
+<td>最後警告，需要立即降落</td>
+</tr>
+
+
+</table>
+
+</div></div>
+
+</div>
+
+
+<div class="section">
+
+<h2>第四天</h2>
+
+<div class="timeline">
+
+<p>
+第四天，我們繼續使用 Feeby 無人機進行更多飛行練習。
+透過前幾天的練習，我們對無人機的控制方式更加熟悉，
+也開始挑戰更困難的飛行技巧。
+
+<br><br>
+
+除了練習基本操作之外，我們也學習如何調整飛行方式，
+讓無人機可以更加穩定地移動。
+在練習過程中，我們發現精準控制需要耐心，
+也需要不斷嘗試與修正。
+</p>
+
+
+<h3>第五天</h3>
+
+<p>
+第五天是營隊的最後一天，
+我們複習這五天所學習到的無人機操作技巧，
+並完成最後的飛行挑戰。
+
+<br><br>
+
+透過這次足球無人機夏令營，
+我不只學會了如何控制無人機，
+也了解了無人機的構造、電池安全、
+飛行技巧，以及團隊合作的重要性。
+
+<br><br>
+
+這五天的學習讓我對無人機科技有了更深入的了解，
+也讓我對未來探索更多科技領域產生興趣。
+</p>
+
+</div>
+
+</div>
+
+
+<div class="section">
+
+<h2>我的收穫</h2>
+
+
+<div class="cards">
+
+
+<div class="card">
+
+<div class="icon">✨</div>
+
+<p>
+操作與控制能力
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<div class="icon">📘</div>
+
+<p>
+學習新的知識
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<div class="icon">🌈</div>
+
+<p>
+創意與探索
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<div class="icon">⭐</div>
+
+<p>
+累積活動經驗
+</p>
+
+</div>
+
+
+</div>
+
+
+</div><div class="section">
+
+<h2>我喜歡的部分</h2>
+
+<p>
+</p>
+
+</div>
+
+
+<footer>
+
+足球無人機科技夏令營成果報告
+
+</footer>
+
+
+</body>
+
+</html>
